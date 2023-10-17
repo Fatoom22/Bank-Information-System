@@ -119,7 +119,7 @@
       <button type="submit" class="btn" style="text-align: center;">Login</button>
     </div>
     <div class="register-link">
-      <a href="CreateNewAccount1.jsp">Create New User Account?</a>
+      <a href="CreateNewAccount-1.jsp">Create New User Account?</a>
     </div>
   </div>
     </form>
